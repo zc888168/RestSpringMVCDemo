@@ -25,7 +25,7 @@ import cn.edu.tju.rico.utils.WebContextUtil;
  * @created 2017年7月4日 下午4:32:34
  */
 @Component
-@Aspect
+//@Aspect
 public class SecurityAspect {
 
 	/** Log4j日志处理(@author: rico) */
